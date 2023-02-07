@@ -141,6 +141,7 @@ h6 {
   font-weight: 400;
   letter-spacing: 2px;
   text-transform: uppercase;
+  display: inline-block;
 }
 
 #header .logo a {
@@ -538,7 +539,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #34b7a7;
+  background: #71e3e2;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -661,7 +662,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #34b7a7;
+  background-color: #71e3e2;
 }
 
 /*--------------------------------------------------------------
@@ -670,7 +671,7 @@ section {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #34b7a7;
+  color: #71e3e2;
 }
 
 .facts .counters p {
